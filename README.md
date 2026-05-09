@@ -37,7 +37,7 @@ I'm a **Senior AI Engineer** and **Data Scientist** with a proven ability to tra
 - ⚡ Fun fact: **I fine-tuned Whisper for Persian STT achieving <20% WER**
 
 ```yaml
-currently_learning: Advanced Multi-Agent Systems (MCP, A2A)
+currently_learning: Advanced Multi-Agent Systems
 daily_driver: Python, LangGraph, PyTorch
 ask_me_about: LLMs, RAG, Computer Vision, Speech AI, Algorithmic Trading
 hobbies: Pushing GPUs to their limits, Building RL Trading Agents
