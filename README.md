@@ -117,10 +117,13 @@ hobbies: Pushing GPUs to their limits, Building RL Trading Agents
 
 ---
 
-## 📊 GitHub Stats & Streaks
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoheilDE&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoheilDE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -156,18 +159,6 @@ hobbies: Pushing GPUs to their limits, Building RL Trading Agents
 | 📈 **Market Pattern Detection** | Financial pattern detection with YOLO/EfficientDet & signal prediction using CNN + time series | `YOLO` `EfficientDet` `CNN` |
 | 🤖 **RL Trading Agent** | PPO-based trading agent with custom Gym environment, price action & risk management | `PPO` `OpenAI Gym` `TensorFlow` |
 | 🕶️ **Driving Simulator** | Raspberry Pi-based simulator with actuator & human operator interaction algorithms | `Python` `Raspberry Pi` |
-
----
-
-## 🐍 My Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SoheilDE/raw/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SoheilDE/raw/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/SoheilDE/raw/output/github-snake-dark.svg" />
-  </picture>
-</p>
 
 ---
 
