@@ -64,8 +64,6 @@ hobbies: Pushing GPUs to their limits, Building RL Trading Agents
 - **Market Pattern Detection** with YOLO and EfficientDet; Signal Value Prediction using CNN and Time Series Forecasting
 - Built **RL Trading Agent** with PPO in a custom Gym environment with price action, risk, and capital management; Designed feature-based actions and rewards for dynamic markets
 
-### 🕶️ Python Developer — **Nasir VR** `2018 – 2020`
-- Developed **Driving Simulators** and Raspberry Pi-Based Algorithms for Enhanced Interaction Between Simulators, Actuators, and Human Operators
 
 ---
 
@@ -158,7 +156,6 @@ hobbies: Pushing GPUs to their limits, Building RL Trading Agents
 | 🦷 **Dental Image Analysis** | AI-powered dental diagnostics using fine-tuned CLIP & LLaVA with real-time chatbot | `CLIP` `LLaMA` `YOLO` |
 | 📈 **Market Pattern Detection** | Financial pattern detection with YOLO/EfficientDet & signal prediction using CNN + time series | `YOLO` `EfficientDet` `CNN` |
 | 🤖 **RL Trading Agent** | PPO-based trading agent with custom Gym environment, price action & risk management | `PPO` `OpenAI Gym` `TensorFlow` |
-| 🕶️ **Driving Simulator** | Raspberry Pi-based simulator with actuator & human operator interaction algorithms | `Python` `Raspberry Pi` |
 
 ---
 
