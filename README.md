@@ -37,7 +37,7 @@ I'm a **Senior AI Engineer** and **Data Scientist** with a proven ability to tra
 - ⚡ Fun fact: **I fine-tuned Whisper for Persian STT achieving <20% WER**
 
 ```yaml
-currently_learning: Advanced Multi-Agent Systems
+currently_learning: Advanced Multi-Agent Systems (MCP, A2A)
 daily_driver: Python, LangGraph, PyTorch
 ask_me_about: LLMs, RAG, Computer Vision, Speech AI, Algorithmic Trading
 hobbies: Pushing GPUs to their limits, Building RL Trading Agents
@@ -124,7 +124,7 @@ hobbies: Pushing GPUs to their limits, Building RL Trading Agents
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SoheilDE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SoheilDE&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
 <p align="center">
